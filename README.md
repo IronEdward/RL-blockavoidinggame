@@ -1,4 +1,4 @@
-# RL-blockavoidinggame
+# Reinforcement Learning on Block Avoiding Game
 DQN on a simple block avoiding game. 
 
 # Versions
